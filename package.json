@@ -1,0 +1,20 @@
+{
+  "name": "herooutman.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herooutman/herooutman.github.io.git"
+  },
+  "author": "Kan Sharp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herooutman/herooutman.github.io/issues"
+  },
+  "homepage": "https://github.com/herooutman/herooutman.github.io#readme"
+}
